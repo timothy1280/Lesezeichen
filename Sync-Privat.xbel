@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :69: for Floccus bookmark sync browser extension -->
+<!--- highestId :70: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -124,6 +124,9 @@
   </bookmark>
   <bookmark href="https://adguard.netbird.markerit.de/login.html" id="69">
     <title>AdGuard</title>
+  </bookmark>
+  <bookmark href="https://proxmox-rt.netbird.markerit.de/" id="70">
+    <title>Promoxx-Rosentahl</title>
   </bookmark>
 </folder>
 <bookmark href="https://mail.google.com/mail/u/0/?ogbl#calls" id="51">
