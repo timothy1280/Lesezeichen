@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :70: for Floccus bookmark sync browser extension -->
+<!--- highestId :71: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -129,6 +129,9 @@
     <title>Promoxx-Rosentahl</title>
   </bookmark>
 </folder>
+<bookmark href="chrome://net-internals/#dns" id="71">
+  <title>ClearDNS</title>
+</bookmark>
 <bookmark href="https://mail.google.com/mail/u/0/?ogbl#calls" id="51">
   <title>Roche-Mail</title>
 </bookmark>
