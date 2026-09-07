@@ -134,6 +134,9 @@
   <bookmark href="https://homeassitant-rt.netbird.markerit.de/" id="73">
     <title>homeassitant</title>
   </bookmark>
+  <bookmark href="https://vault.netbird.markerit.de/#/login" id="66">
+    <title>Vaultwarden Web</title>
+  </bookmark>
 </folder>
 <bookmark href="chrome://net-internals/#dns" id="71">
   <title>ClearDNS</title>
@@ -203,8 +206,5 @@
 </bookmark>
 <bookmark href="https://wedding.markerit.de/s/hochzeit" id="65">
   <title>Hochzeit</title>
-</bookmark>
-<bookmark href="https://vault.netbird.markerit.de/#/login" id="66">
-  <title>Vaultwarden Web</title>
 </bookmark>
 </xbel>
