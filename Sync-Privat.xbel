@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :72: for Floccus bookmark sync browser extension -->
+<!--- highestId :73: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -130,6 +130,9 @@
   </bookmark>
   <bookmark href="https://paperless.netbird.markerit.de/accounts/login/?next=/" id="72">
     <title>Paperless-ngx</title>
+  </bookmark>
+  <bookmark href="https://homeassitant-rt.netbird.markerit.de/" id="73">
+    <title>homeassitant</title>
   </bookmark>
 </folder>
 <bookmark href="chrome://net-internals/#dns" id="71">
