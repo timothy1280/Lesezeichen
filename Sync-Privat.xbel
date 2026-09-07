@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :73: for Floccus bookmark sync browser extension -->
+<!--- highestId :74: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -206,5 +206,8 @@
 </bookmark>
 <bookmark href="https://vault.netbird.markerit.de/#/login" id="66">
   <title>Vaultwarden Web</title>
+</bookmark>
+<bookmark href="https://github.com/timothy1280/Lesezeichen" id="74">
+  <title>timothy1280/Lesezeichen</title>
 </bookmark>
 </xbel>
