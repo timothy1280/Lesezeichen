@@ -139,6 +139,9 @@
   </bookmark>
   <folder id="76">
     <title>Local</title>
+    <bookmark href="https://vault.local.markerit.de/#/login" id="75">
+      <title>Vaultwarden Local</title>
+    </bookmark>
   </folder>
 </folder>
 <bookmark href="chrome://net-internals/#dns" id="71">
@@ -209,8 +212,5 @@
 </bookmark>
 <bookmark href="https://wedding.markerit.de/s/hochzeit" id="65">
   <title>Hochzeit</title>
-</bookmark>
-<bookmark href="https://vault.local.markerit.de/#/login" id="75">
-  <title>Vaultwarden Local</title>
 </bookmark>
 </xbel>
