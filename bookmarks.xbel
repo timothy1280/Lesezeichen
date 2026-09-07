@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :65: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>01.Lokal</title>
+  <bookmark href="http://192.168.2.10:8123/lovelace/home-neu" id="6">
+    <title>Home Assistant</title>
+  </bookmark>
+  <bookmark href="http://192.168.2.6:8810/accounts/login/?next=/" id="7">
+    <title>Paperless</title>
+  </bookmark>
+  <bookmark href="https://192.168.2.7:8443/manage/account/login" id="8">
+    <title>UniFi-Lokal</title>
+  </bookmark>
+  <bookmark href="http://192.168.2.7:9000/#!/auth" id="9">
+    <title>Portainer-RT</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.250:9000/#!/auth" id="10">
+    <title>Portainer - MM</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.5:631/" id="11">
+    <title>CUPS</title>
+  </bookmark>
+  <bookmark href="https://192.168.178.250:5001/#/signin" id="12">
+    <title>Synology-Marker</title>
+  </bookmark>
+  <bookmark href="http://192.168.2.1/" id="13">
+    <title>FRITZ!Box</title>
+  </bookmark>
+  <bookmark href="https://192.168.3.10/EWS/home/status.html" id="14">
+    <title>Rico_Scanner</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.250:3000/" id="15">
+    <title>Homepage</title>
+  </bookmark>
+  <bookmark href="https://192.168.2.5:8006/#v1:0:=qemu%2F102:4:::::::" id="31">
+    <title>Proxmox - Timothy</title>
+  </bookmark>
+  <bookmark href="https://192.168.178.249:8006/#v1:0:18:4:::::::" id="32">
+    <title>proxmox - Jeremy</title>
+  </bookmark>
+  <bookmark href="http://192.168.2.2/" id="33">
+    <title>AdGuard Home</title>
+  </bookmark>
+  <bookmark href="http://192.168.178.111:8123/lovelace" id="34">
+    <title>HA - Jeremy</title>
+  </bookmark>
+  <bookmark href="https://my.hidrive.com/lnk/DBLV5T9Cz#file" id="35">
+    <title>HiDrive</title>
+  </bookmark>
+  <bookmark href="https://notebooklm.google.com/notebook/4769e862-ea9f-4ed4-a88d-7c0c6c94d958" id="36">
+    <title>NotebookLM</title>
+  </bookmark>
+  <bookmark href="https://vault.local.markerit.de/" id="37">
+    <title>Vaultwarden Web</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>02.Remote</title>
+  <bookmark href="https://netbird.markerit.de/" id="16">
+    <title>NetBird Dashboard</title>
+  </bookmark>
+  <bookmark href="https://login.tailscale.com/admin/machines" id="17">
+    <title>Tailscale</title>
+  </bookmark>
+  <bookmark href="https://textmarker.ddnss.ch:8081/?login&amp;href=#tab-intro" id="18">
+    <title>IoBroker DDNS</title>
+  </bookmark>
+  <bookmark href="https://server.solar-rebell.de/#v1:0:=qemu%2F101:4:::::7::" id="19">
+    <title>proxmox - Proxmox Virtual Environment</title>
+  </bookmark>
+  <bookmark href="https://home.shelly.cloud/#/dashboard" id="20">
+    <title>Shelly Cloud</title>
+  </bookmark>
+  <bookmark href="https://textmarker.ddnss.ch:5001/" id="21">
+    <title>Synology-Marker</title>
+  </bookmark>
+  <bookmark href="https://vault.bitwarden.com/#/login" id="22">
+    <title>Bitwarden</title>
+  </bookmark>
+  <bookmark href="https://unifi.ui.com/consoles" id="23">
+    <title>UniFi Portal</title>
+  </bookmark>
+  <bookmark href="https://paperless.solar-rebell.de/dashboard" id="24">
+    <title>Paperless</title>
+  </bookmark>
+  <bookmark href="https://n8n.solar-rebell.de/signin?redirect=%252F" id="25">
+    <title>n8n</title>
+  </bookmark>
+  <bookmark href="https://hombridge.solar-rebell.de/" id="38">
+    <title>Homepage</title>
+  </bookmark>
+  <bookmark href="https://ha.solar-rebell.de/" id="39">
+    <title>Home Assistant</title>
+  </bookmark>
+  <bookmark href="https://immich.solar-rebell.de/albums/259ec4d1-7c7d-4923-af05-3afe77cc07cf/photos/99397d30-6641-41dd-829b-44cf25ac5b9e" id="40">
+    <title>Immich</title>
+  </bookmark>
+  <bookmark href="https://vault.netbird.markerit.de/#/login" id="41">
+    <title>Vaultwarden Web</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>03.Website</title>
+  <bookmark href="http://schaumkuss-stuebchen.de/" id="26">
+    <title>Schaumkuss-Stuebchen</title>
+  </bookmark>
+  <bookmark href="https://schaumkuss-stuebchen.de/wp-login.php" id="27">
+    <title>Schaumkuss-Stuebchen login</title>
+  </bookmark>
+  <bookmark href="https://voyage-homes.de/" id="28">
+    <title>Voyage-homes</title>
+  </bookmark>
+  <bookmark href="https://voyage-homes.de/wp-login.php" id="29">
+    <title>Voyage-homes login</title>
+  </bookmark>
+  <bookmark href="http://marker-immobilien.de/wp-login.php" id="30">
+    <title>Marker Immobilien login</title>
+  </bookmark>
+</folder>
+<bookmark href="https://chatgpt.com/" id="4">
+  <title>ChatGPT</title>
+</bookmark>
+<bookmark href="https://www.ebrief.de/" id="5">
+  <title>Briefe online versenden</title>
+</bookmark>
+<bookmark href="https://app.clickup.com/6646494/v/l/6-146347447-1" id="42">
+  <title>ClickUp</title>
+</bookmark>
+<bookmark href="https://app.lexoffice.de/dashboard/#/" id="43">
+  <title>Dashboard | lexoffice</title>
+</bookmark>
+<bookmark href="https://wd3.myworkday.com/roche/d/inst/1$9925/9925$470017.htmld" id="44">
+  <title>Details anzeigen - Workday</title>
+</bookmark>
+<bookmark href="https://www.mollie.com/de" id="45">
+  <title>Mollie</title>
+</bookmark>
+<bookmark href="https://www.audi.de/myaudi/vehicle/dashboard/VmVoaWNsZTpXQVVaWlpGNDZOQTAyNzI2Mg==" id="46">
+  <title>myAudi</title>
+</bookmark>
+<bookmark href="https://easyeda.com/" id="47">
+  <title>Platinen</title>
+</bookmark>
+<bookmark href="https://pricelabs.co/signin" id="48">
+  <title>PriceLabs</title>
+</bookmark>
+<bookmark href="https://remotedesktop.google.com/access/" id="49">
+  <title>Remotezugriff</title>
+</bookmark>
+<bookmark href="https://remotedesktop.google.com/u/2/access/session/8cab7b55-f268-db96-3f10-fe5ccee335b6" id="50">
+  <title>Win11Pro</title>
+</bookmark>
+<bookmark href="https://mail.google.com/mail/u/0/?ogbl#calls" id="51">
+  <title>Roche-Mail</title>
+</bookmark>
+<bookmark href="https://www.smoobu.com/de/" id="52">
+  <title>Smoobu</title>
+</bookmark>
+<bookmark href="https://www.strato.de/apps/CustomerService#/skl" id="53">
+  <title>STRATO Login</title>
+</bookmark>
+<bookmark href="https://webmail.strato.com/appsuite/ui" id="54">
+  <title>STRATO Webmail</title>
+</bookmark>
+<bookmark href="https://www.airbnb.de/rooms/976865113666446361?adults=2&amp;check_in=2023-11-20&amp;check_out=2023-11-26&amp;source_impression_id=p3_1697802597_X5TmSJif4mpOj87s&amp;previous_page_section_name=1000&amp;federated_search_id=f44c1379-ac5d-4b2a-a54e-1aca6638cf5c&amp;guests=2" id="55">
+  <title>Voyage-Homes Anzeige</title>
+</bookmark>
+<bookmark href="https://zapier.com/editor/273392321/run/0142b8ec-a8fd-ab47-0c0d-2f0271db5b11" id="56">
+  <title>Zapier</title>
+</bookmark>
+<bookmark href="https://time.awr-automation.com/Vacation" id="57">
+  <title>Zeiterfassung-AWR</title>
+</bookmark>
+<bookmark href="https://floccus.org/download" id="58">
+  <title>floccus</title>
+</bookmark>
+<bookmark href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638721082180441521.Mzg0YjNhNzgtOGVhOS00MDE3LTk5YTgtZDZlOWFhYTc5NGQ4ZmNiZjIyYjQtZWM1OC00Zjg5LThmYmYtYTZmYmQ1MWE4ODMx&amp;ui_locales=de-DE&amp;mkt=de-DE&amp;client-request-id=69801f7d-bf1c-451b-865f-d23bc948919c&amp;state=D1WzgCbIKmvx9Z8Zi26UCI-Q5qfwekLJekdjmqsDXkW8qvJuMkC4ka00DOJ9q_Qhe_gQxYJf90Ujakk2mUahs9IfRfR6vBi-Cr381hXwdFjNpOyoYfDYvgOTxTCUmlP5sJ5b_yJ__DbbXUdNDWs2j_AmyOCPiwv7egZlW1vXUJpi5ePRgTUmCf9nXXVmP1Dj1YoWcfSYDydhSqGSR9syHj4gqeN59fCJO_sAGlh7N1rUl4qrpHwhHp6Q2QG5gARxN7l3PvpBbXje1YDuBsibVRAhfVI9FavXKdgwwn8_Fpk&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=7.5.1.0" id="59">
+  <title>Microsoft365 - Login</title>
+</bookmark>
+<bookmark href="https://dash.cloudflare.com/login" id="60">
+  <title>Cloudflare</title>
+</bookmark>
+<bookmark href="https://www.amazon.de/b2b/invoicing/payments?groupId=A2A9RVQMPYGKA4&amp;ref_=b2b_invoice_payment_req_bc_make_payment" id="61">
+  <title>AmazonZahlungen</title>
+</bookmark>
+<bookmark href="https://careers.roche.com/de/de/digital-employment-agreement-enclosures-in-germany" id="62">
+  <title>Digitale Arbeitssicherheiten in Deutschland | Roche</title>
+</bookmark>
+<bookmark href="https://sites.google.com/roche.com/hr-germany-meine-benefits/benefits?pli=1&amp;authuser=1" id="63">
+  <title>Meine Benefits</title>
+</bookmark>
+<bookmark href="https://www.bmwtis.com/tisUI/#/login" id="64">
+  <title>TisUI</title>
+</bookmark>
+<bookmark href="https://wedding.markerit.de/s/hochzeit" id="65">
+  <title>Hochzeit</title>
+</bookmark>
+</xbel>
