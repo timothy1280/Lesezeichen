@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :76: for Floccus bookmark sync browser extension -->
+<!--- highestId :77: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -141,6 +141,9 @@
     <title>Local</title>
     <bookmark href="https://vault.local.markerit.de/#/login" id="75">
       <title>Vaultwarden Local</title>
+    </bookmark>
+    <bookmark href="https://exbpbox.ent.box.com/folder/365334184373?s=mmnzeo70mw4ak47r2pr7w4stgu3u7uar&amp;tc=collab-folder-invite-treatment-b" id="77">
+      <title>ASYS | Powered by Box</title>
     </bookmark>
   </folder>
 </folder>
