@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :79: for Floccus bookmark sync browser extension -->
+<!--- highestId :80: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -91,6 +91,9 @@
   </bookmark>
   <bookmark href="http://100.103.200.5:3001/dashboard" id="79">
     <title>Uptime Kuma</title>
+  </bookmark>
+  <bookmark href="https://100.103.200.5:9443/#!/3/docker/stacks" id="80">
+    <title>Portainer Hetzner</title>
   </bookmark>
 </folder>
 <folder id="4">
