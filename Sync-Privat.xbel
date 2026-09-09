@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :81: for Floccus bookmark sync browser extension -->
+<!--- highestId :83: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -46,6 +46,12 @@
   </bookmark>
   <bookmark href="http://192.168.178.111:8123/lovelace" id="40">
     <title>HA - Jeremy</title>
+  </bookmark>
+  <bookmark href="https://my.hidrive.com/lnk/DBLV5T9Cz#file" id="82">
+    <title>HiDrive</title>
+  </bookmark>
+  <bookmark href="https://notebooklm.google.com/notebook/4769e862-ea9f-4ed4-a88d-7c0c6c94d958" id="83">
+    <title>NotebookLM</title>
   </bookmark>
 </folder>
 <folder id="16">
