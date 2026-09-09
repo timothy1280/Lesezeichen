@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :78: for Floccus bookmark sync browser extension -->
+<!--- highestId :79: for Floccus bookmark sync browser extension -->
 
 <folder id="15">
   <title>01.Lokal</title>
@@ -148,6 +148,9 @@
   </folder>
   <bookmark href="https://netbird.markerit.de/peer/rdp?id=d910hvkhn4ds73a1phag" id="78">
     <title>Win11Pro - 100.93.105.91 - RDP</title>
+  </bookmark>
+  <bookmark href="http://100.103.200.5:3001/dashboard" id="79">
+    <title>Uptime Kuma</title>
   </bookmark>
 </folder>
 <bookmark href="chrome://net-internals/#dns" id="71">
