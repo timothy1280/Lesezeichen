@@ -142,9 +142,6 @@
     <bookmark href="https://vault.local.markerit.de/#/login" id="75">
       <title>Vaultwarden Local</title>
     </bookmark>
-    <bookmark href="https://exbpbox.ent.box.com/folder/365334184373?s=mmnzeo70mw4ak47r2pr7w4stgu3u7uar&amp;tc=collab-folder-invite-treatment-b" id="77">
-      <title>ASYS | Powered by Box</title>
-    </bookmark>
   </folder>
   <bookmark href="https://netbird.markerit.de/peer/rdp?id=d910hvkhn4ds73a1phag" id="78">
     <title>Win11Pro - 100.93.105.91 - RDP</title>
@@ -230,5 +227,8 @@
 </bookmark>
 <bookmark href="https://wedding.markerit.de/s/hochzeit" id="65">
   <title>Hochzeit</title>
+</bookmark>
+<bookmark href="https://exbpbox.ent.box.com/folder/365334184373?s=mmnzeo70mw4ak47r2pr7w4stgu3u7uar&amp;tc=collab-folder-invite-treatment-b" id="77">
+  <title>ASYS | Powered by Box</title>
 </bookmark>
 </xbel>
